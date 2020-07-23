@@ -11,10 +11,10 @@ def assembled_aoh
 end
 
 def literal_aoh
-  {:name=>"Joelle van Dyne", :occupation =>
-  {:name=>"Pat Monteseian", :occupation =>
-  {:name=>"Kate Gompert", :occupation =>
-  {:name=>"Bruce Green", 
+  {:name=>"Joelle van Dyne", :occupation => "Radio Personality"},
+  {:name=>"Pat Monteseian", :occupation => 
+  {:name=>"Kate Gompert", :occupation => 
+  {:name=>"Bruce Green", :occupation => 
 end
 
 def aoh_lookup(aoh, row, key)
