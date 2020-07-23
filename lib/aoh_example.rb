@@ -13,8 +13,8 @@ end
 def literal_aoh
   {:name=>"Joelle van Dyne", :occupation =>
   {:name=>"Pat Monteseian", :occupation =>
-  {:name=>"Kate Gompert", 
-  {:name=>"Bruce Green",
+  {:name=>"Kate Gompert", :occupation =>
+  {:name=>"Bruce Green", 
 end
 
 def aoh_lookup(aoh, row, key)
