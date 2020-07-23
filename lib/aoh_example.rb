@@ -12,8 +12,8 @@ end
 
 def literal_aoh
   {:name=>"Joelle van Dyne", :occupation =>
-  {:name=>"Pat Monteseian", 
-  {:name=>"Kate Gompert",
+  {:name=>"Pat Monteseian", :occupation =>
+  {:name=>"Kate Gompert", 
   {:name=>"Bruce Green",
 end
 
